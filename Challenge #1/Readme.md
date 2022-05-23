@@ -1,7 +1,7 @@
 Brief Explanation on how the 3-Tier Architecture has been designed,and what all Cloud Products and services used to Deploy applications 
 using Jenkins CI/CD Pipelines in Kubernetes Rancher Clusters. 
 
-The Cloud Architecture for applications has a bias towards Iaas based services. Ke AWS cloud services used in solution are:
+The Cloud Architecture for applications has a bias towards Iaas based services. Key AWS cloud services used in solution are:
 
 Storage - EBS, S3
 Networking - VPC, VPC Peering, Route 53, AWS Direct Connect, Load Balancers, Transit Gateway
